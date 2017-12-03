@@ -1,0 +1,7 @@
+The Building scene recognition project team has implemented their user stories and their Github is up to date. Some of the issues like
+a need to increase data set have been addressed. However, the materials uploaded to GitHub could use some more organization as there are
+a very large number of folders and subfolders and it is difficult to navigate to a particular folder. The Readme file gives a good 
+description about how to use the web application. It could be modified to give some information about the structure of uploaded files.
+The recently added code for Page 3 is slightly difficult to understand as it is extremely long 
+(master/ChenRui_page3/page3_General/main_gen.css) and it is not commented. Some changes can be made to increse readability
+of the code.
